@@ -1,0 +1,11 @@
+# ------------------------------------------------------------------
+# FEFO / Batch Inventory / Expiry Monitoring
+# ------------------------------------------------------------------
+
+numpy>=1.21
+pandas>=1.5
+openpyxl>=3.1
+jdatetime>=4.1
+
+
+# pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
